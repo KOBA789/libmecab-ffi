@@ -1,0 +1,4 @@
+# libmecab-ffi
+
+TODO:
+
